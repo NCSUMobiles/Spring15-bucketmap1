@@ -1,14 +1,19 @@
 # BucketList
 
-![BucketList Icon](https://raw.githubusercontent.com/NCSUMobiles/Spring15-bucketmap1/blob/Master/app/src/main/res/drawable/logo.png)
+![BucketList Icon] (https://github.com/NCSUMobiles/Spring15-bucketmap1/blob/Master/app/src/main/res/drawable/logo.png)
 
 #The Team:
 
 Alexis Covington
+
 Nikhil Nayak
+
 Kurt Spencer
+
 Abhinav Srinivasan 
+
 Neha Vinod Ahir
+
 
 #Core Problem:
 
