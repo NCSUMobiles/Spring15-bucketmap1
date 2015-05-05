@@ -1,6 +1,6 @@
 # BucketList
 
-![BucketList Icon] (https://github.com/NCSUMobiles/Spring15-bucketmap1/blob/Master/app/src/main/res/drawable/logo.png)
+![BucketList Icon] (https://github.com/NCSUMobiles/Spring15-bucketmap1/Project Deliverables/logo2.png)
 
 #The Team:
 
@@ -17,7 +17,7 @@ Neha Vinod Ahir
 
 #Core Problem:
 
-We wanted to create a mobile application that allows users to find places of interest, group them together in buckets, rate the places they've visited and share this information with friends. Our application lets users create buckets, find places using google maps, and add them to buckets.
+We wanted to create a mobile application that allows users to find places of interest, group them together in buckets, rate the places they've visited and share this information with friends. By integrating multiple google APIs, our application lets users create buckets, find places using google maps, and add them to buckets, thereby helping people discover new and fun places to visit.
 
 
 #Application features:
@@ -55,11 +55,17 @@ This lets multiple users use the app, while allowing each user to have a private
 #Future Work:
 
 The application currently needs the user to input the entire word for searching.  An important utility could be to add an auto-complete feature for search.
+
 The application supports Google+ login. One of the future works could be to integrate Facebook login as well.
+
 Sharing of buckets, in the future, could be done directly through the app instead of using Google+, which is the current technique.
+
 One of the future items is integrating the Places API for information about places on the map, so that more information can be displayed.
+
 The bucket icons can be customized to the choice of the user.
+
 The overall look and feel of the user interface can be improved upon as a future work item.
+
 The places of pictures can be added to the place information page.
 
 
