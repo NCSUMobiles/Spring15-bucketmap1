@@ -1,6 +1,6 @@
 # BucketList
 
-![BucketList Icon] (https://github.com/NCSUMobiles/Spring15-bucketmap1/blob/Master/Project%20Deliverables/logo2.png)
+![BucketList Icon] (https://github.com/NCSUMobiles/Spring15-bucketmap1/blob/Master/Project%20Deliverables/logo2.png =150x200)
 
 #The Team:
 
